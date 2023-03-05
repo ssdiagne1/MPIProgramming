@@ -1,0 +1,4 @@
+1 0.0771514 0.133621
+10 0.570062 0.849145
+100 5.51142 4.99362
+1000 54.9067 srun: Job 39824 step creation temporarily disabled, retrying (Requested nodes are busy) srun: Step created for job 39824 35.7407
